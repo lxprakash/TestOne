@@ -1,6 +1,7 @@
 Welcome to Commit one
-<<<<<<< Updated upstream
 tow -Dinesh
-=======
+
 Added new information 3
->>>>>>> Stashed changes
+
+four -Dinesh
+
