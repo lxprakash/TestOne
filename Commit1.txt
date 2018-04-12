@@ -1,11 +1,1 @@
-Welcome to Commit one
-tow -Dinesh
-<<<<<<< HEAD
-======= 333333333 =========
-=======
-
->>>>>>> 2731497a5c26844bc3b22d156c981bd82fce906d
-Added new information 3
-
-four -Dinesh
-
+Commit 05
